@@ -1,7 +1,8 @@
 package exercicio.executavel.senac;
 
-import exercicio1.pacote.senac.aocubo.NumeroAoCubo;
-import exercicio1.pacote.senac.soma.SomaDoisNumeros;
+import exercicio2.pacote.senac.NumeroAoCubo;
+import exercicio1.pacote.senac.SomaDoisNumeros;
+import exercicio3.pacote.senac.ImparOuPar;
 
 /**
  *
@@ -20,7 +21,10 @@ public class ExerciciosMetodos {
 //        cubo.realizaCalculo();
         
 //        Exercicio 3
-        
+//        ImparOuPar descubra = new ImparOuPar();
+//        descubra.realizaCalculo();
+
+
     }
     
     

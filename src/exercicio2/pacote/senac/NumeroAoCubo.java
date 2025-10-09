@@ -1,4 +1,4 @@
-package exercicio1.pacote.senac.aocubo;
+package exercicio2.pacote.senac;
 
 import java.util.Scanner;
 

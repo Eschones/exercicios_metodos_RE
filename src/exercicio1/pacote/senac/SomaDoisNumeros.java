@@ -1,4 +1,4 @@
-package exercicio1.pacote.senac.soma;
+package exercicio1.pacote.senac;
 
 import java.util.Scanner;
 
