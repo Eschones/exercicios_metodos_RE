@@ -1,7 +1,7 @@
 package exercicio.executavel.senac;
 
-import exercicio1.pacote.senac.SomaDoisNumeros;
-import java.util.Scanner;
+import exercicio1.pacote.senac.aocubo.NumeroAoCubo;
+import exercicio1.pacote.senac.soma.SomaDoisNumeros;
 
 /**
  *
@@ -11,22 +11,15 @@ public class ExerciciosMetodos {
 
     public static void main(String[] args) {
         
-        Scanner scanner = new Scanner(System.in);
+//        Exercicio 1
+//        SomaDoisNumeros somar = new SomaDoisNumeros();
+//        somar.realizaCalculo();
         
-        System.out.println("---Soma de dois numeros---");
-        System.out.println("Informe o primeiro numero: ");
-        int num1 = scanner.nextInt();
+//        Exercicio2
+//        NumeroAoCubo cubo = new NumeroAoCubo();
+//        cubo.realizaCalculo();
         
-        System.out.println("\nInforme o segundo numero: ");
-        int num2 = scanner.nextInt();
-        
-        SomaDoisNumeros calcular = new SomaDoisNumeros();
-        
-        int resultado = calcular.somar(num1, num2);
-        
-        System.out.println("---O resultado final---");
-        System.out.println("A soma dos dois numeros deu: " + resultado);
-        
+//        Exercicio 3
         
     }
     
