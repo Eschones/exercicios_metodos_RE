@@ -3,6 +3,7 @@ package exercicio.executavel.senac;
 import exercicio2.pacote.senac.NumeroAoCubo;
 import exercicio1.pacote.senac.SomaDoisNumeros;
 import exercicio3.pacote.senac.ImparOuPar;
+import exercicio4.pacote.senac.NumeroOuCaracter;
 
 /**
  *
@@ -24,7 +25,9 @@ public class ExerciciosMetodos {
 //        ImparOuPar descubra = new ImparOuPar();
 //        descubra.realizaCalculo();
 
-
+//        Exercicio 4
+//        NumeroOuCaracter digite = new NumeroOuCaracter();
+//        digite.diferencia();
     }
     
     
